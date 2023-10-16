@@ -4,10 +4,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teammrr" alt="teammrr" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter and TypeScript**
-
-- 📝 I regularly write articles on [hub.teamrr.live](hub.teamrr.live)
-
-- 📄 Know about my experiences [portfolio.teamrr.live](portfolio.teamrr.live)
   
 - 🔭 I’m currently working on [Room-Reservation-System](https://github.com/teammrr/room-booking)  
 
