@@ -1,18 +1,20 @@
-### <h1 align="center">Hello there, I'm Team 👋</h1>  
+<h1 align="center">Hi 👋, I'm Team</h1>
+<h3 align="center">A passionate full-stack dev from Thailand</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teammrr" alt="teammrr" /></a> </p>
+
+- 🌱 I’m currently learning **Flutter and TypeScript**
+
+- 📝 I regularly write articles on [hub.teamrr.live](hub.teamrr.live)
+
+- 📄 Know about my experiences [portfolio.teamrr.live](portfolio.teamrr.live)
   
 - 🔭 I’m currently working on [Room-Reservation-System](https://github.com/teammrr/room-booking)  
-  
 
 - ⚡ My Past Projects: [TimeTabs](https://github.com/teammrr/timetabs-react)  
-  
-
 <br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -42,6 +44,9 @@
 
 
 ## Github Stats  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teammrr&show_icons=true&locale=en&layout=compact" alt="teammrr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teammrr&show_icons=true&locale=en" alt="teammrr" /></p>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teammrr&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
