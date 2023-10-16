@@ -12,8 +12,10 @@
 - 🔭 I’m currently working on [Room-Reservation-System](https://github.com/teammrr/room-booking)  
 
 - ⚡ My Past Projects: [TimeTabs](https://github.com/teammrr/timetabs-react)  
-<br/>  
+<br/>
+
 ## My Skill Set  
+
 <table><tr><td valign="top" width="50%">
 
 ### Frontend  
