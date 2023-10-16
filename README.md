@@ -46,20 +46,7 @@
 ## Github Stats  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teammrr&show_icons=true&locale=en&layout=compact" alt="teammrr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teammrr&show_icons=true&locale=en" alt="teammrr" /></p>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teammrr&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teammrr&show_icons=true&locale=en" alt="teammrr" /></p
 <br/>  
 
 <div align="center">
