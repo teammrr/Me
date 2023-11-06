@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter and TypeScript**
   
-- 🔭 I’m currently working on [Room-Reservation-System](https://github.com/teammrr/room-booking)  
+- 🔭 I’m currently working on [Book-It](https://github.com/teammrr/room-booking)  
 
 - ⚡ My Past Projects: [TimeTabs](https://github.com/teammrr/timetabs-react)  
 <br/>
