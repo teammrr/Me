@@ -1,10 +1,21 @@
-<h1 align="center">Hi 👋, I'm Team</h1>
-<h3 align="center">Unfinished project are dead project so don't finish it</h3>
+## 👏👏 Hey there!
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teammrr" alt="teammrr" /></a> </p>
+## About Me
+I'm a high school student with a passion with everything related to tech. During my free time, I love to dive into the world of coding and create amazing web experiences and delving into the realm of cybersecurity.
 
+## 🔧 Skills
+- **General Programming:** Typescript, Python
+- **Web Frameworks:** Astro, Svelte, React
 
-## My Skill Set  
+## 🚀 Projects
+Here are some projects I've worked on:
+
+### [BookIt](https://bookit.teamrr.live)
+A room reservation system built with NextJS.. (FullStack)
+
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to chat! 😊
+
+## My Tech Stack  
 
 <table><tr><td valign="top" width="50%">
 
