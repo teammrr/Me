@@ -2,16 +2,13 @@
 ## About Me
 I'm a high school student with a passion with everything related to tech. During my free time, I love to dive into the world of coding and create amazing web experiences and delving into the realm of cybersecurity.
 
-## 🔧 Tech
+## 👨🏻‍💻 Tech stacks
 - **General Programming:** Typescript, Python
 - **Web Frameworks:** Astro, Svelte, Next, React
 - **Databases:** Prisma, Kryesly
 
-## 🚀 Projects
-Here are some projects I've worked on:
-
-### [BookIt](https://bookit.teamrr.live)
-A room reservation system built with NextJS.. (FullStack)
+## 💼 Projects I've worked on
+- [BookIt](https://bookit.teamrr.live): Room reservation system for private organization
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to chat! 😊
 
