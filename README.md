@@ -1,10 +1,11 @@
-## 👏👏 Hey there!
+## 👏👏 Hey there, I'm Team
 ## About Me
 I'm a high school student with a passion with everything related to tech. During my free time, I love to dive into the world of coding and create amazing web experiences and delving into the realm of cybersecurity.
 
-## 🔧 Skills
+## 🔧 Tech
 - **General Programming:** Typescript, Python
-- **Web Frameworks:** Astro, Svelte, React
+- **Web Frameworks:** Astro, Svelte, Next, React
+- **Databases:** Prisma, Kryesly
 
 ## 🚀 Projects
 Here are some projects I've worked on:
