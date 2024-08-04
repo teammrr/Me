@@ -1,6 +1,6 @@
 ## 👏👏 Hey there, I'm Team
 ## About Me
-I'm a high school student with a passion with everything related to tech. During my free time, I love to dive into the world of coding and create amazing web experiences and delving into the realm of cybersecurity.
+Student with a passion with everything related to tech. During my free time, I love to dive into the world of coding and create amazing web experiences and delving into the realm of cybersecurity.
 
 ## 👨🏻‍💻 Tech stacks
 - **General Programming:** Typescript, Python
